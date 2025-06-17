@@ -1,0 +1,19 @@
+.category {
+    font-weight: normal;
+    color: #1A1721;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    text-align: left;
+}
+
+.textStyle {
+    color: #1A1721;
+    margin-left: 10px;
+    text-align: left;
+}
+
+.linkStyle {
+    color: #a63564;
+    font-weight: bold;
+}
